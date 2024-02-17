@@ -1,2 +1,7 @@
 # M-dulo_6
-Python - Estruturas de Dados: Listas, Conjuntos e Dicionários
+Python - Python: Programação Orientada a Objetos
+
+Tópicos:
+Classes;
+Objetos;
+Herança.
